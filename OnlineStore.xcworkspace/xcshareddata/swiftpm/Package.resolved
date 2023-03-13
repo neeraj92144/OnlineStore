@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "axisratingbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisRatingBar",
+      "state" : {
+        "revision" : "edc48620a2cd9f6b3cec0642ebcac4a6cf6d0e56",
+        "version" : "0.5.0"
+      }
+    },
+    {
+      "identity" : "fivestarrating_swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JZDesign/FiveStarRating_SwiftUI",
+      "state" : {
+        "branch" : "master",
+        "revision" : "25c4946eb0c20128556056446d04ab9ec42a944d"
+      }
+    },
+    {
+      "identity" : "starratingviewswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/magickworx/StarRatingViewSwiftUI",
+      "state" : {
+        "revision" : "7a177982b0d80c5c64e97deb6180380ad139293a",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftui-cached-async-image",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lorenzofiamingo/swiftui-cached-async-image",
+      "state" : {
+        "revision" : "467a3d17479887943ab917a379e62bbaff60ac8a",
+        "version" : "2.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
